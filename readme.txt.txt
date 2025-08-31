@@ -21,8 +21,6 @@ Os exercícios cobrem conceitos de entrada e saída de dados, estruturas de deci
 - Permite cadastrar, consultar e remover funcionários usando menu interativo.
 - Utiliza lista de dicionários, funções, busca e remoção por critérios.
 
-### 4. [Descreva aqui se houver mais exercícios...]
-
 ## Como Executar
 
 1. Certifique-se de ter o [Python 3](https://www.python.org/) instalado.
